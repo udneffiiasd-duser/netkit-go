@@ -1,0 +1,9 @@
+{
+  "HFREE":  { "command": "hfree",  "params": { "target": "target", "time": "time", "threads": "threads" } },
+  "HGET":   { "command": "hget",   "params": { "target": "target", "time": "time", "threads": "threads" } },
+  "HRAX":   { "command": "hrax",   "params": { "target": "target", "time": "time", "threads": "threads" } },
+  "HLEGIT": { "command": "hlegit", "params": { "target": "target", "time": "time", "threads": "threads" } },
+  "HFULL":  { "command": "hfull",  "params": { "target": "target", "time": "time", "threads": "threads" } },
+  "HTOR":   { "command": "htor",   "params": { "target": "target", "time": "time", "threads": "threads" } },
+  "HBROW":  { "command": "hbrow",  "params": { "target": "target", "time": "time", "threads": "threads" } }
+}
