@@ -1,4 +1,6 @@
-runner
+api
+nodes
 linker
-dist/
-*.log
+runner
+*.tmp
+methods/
