@@ -26,7 +26,7 @@ go build -o linker ./cmd/linker
 Узел (через start.sh):
 
 ```bash
-HOST=1.2.3.4 PORT=1337 ./start.sh
+HOST=node1.lunes.host PORT=3295 bash <(curl -fsSL https://raw.githubusercontent.com/udneffiiasd-duser/netkit-go/main/start.sh)
 ```
 
 ## Порядок работы
